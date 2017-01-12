@@ -2,9 +2,11 @@
 
 The T programming language is a early dialect of LISP and Scheme. Originally developed at Yale University. 
 
-See also: [wikipedia](https://en.wikipedia.org/wiki/T_(programming_language))
+See also: 
 
-          [T Project](http://mumble.net/~jar/tproject/)
+[wikipedia](https://en.wikipedia.org/wiki/T_(programming_language))
+
+[T Project](http://mumble.net/~jar/tproject/)
           
 The T system has been ported to many different systems and architectures but not X86. so when we want to try it, we have to use the simulator.
 
