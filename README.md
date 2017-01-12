@@ -21,11 +21,12 @@ Screenshots:
 
 
 ## Step 1. Build SIMH
-
+    git clone https://github.com/uternet/language-t.git
+    cd language-t
     7z x ultrix-4.3.7z
     git clone https://github.com/simh/simh.git
     cd simh
-    make vax # only build vax, or `make` for all machines
+    make vax                   # build vax only, or `make` for all machines
     cp BIN/vax ../ultrix-4.3/  # copy the executable to ultrix's directory
                                # or $PATH directories
     
